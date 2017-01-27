@@ -71,4 +71,3 @@ In this project you will optimize a provided website with a number of optimizati
 ### License
 
 The project is licensed under the [MIT license](license.txt).
-# Website-Optimization-Project
