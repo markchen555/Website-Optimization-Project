@@ -9,7 +9,24 @@ Sixth project from the Front-End Web Developer Nanodegree in <a href="https://ww
 
 [Project Repo](https://github.com/markchen555/Website-Optimization-Project)
 
-Fork a copy from my github or download the repository on your computer, unzip it and open `index.html` in your browser to see the working tests. See detail for part 1 in `../index.html`. See detail for part 2 in `../views/js/main.js
+1. Fork a copy from my github or download the repository on your computer, unzip it and open `index.html` in your browser to see the working tests. See detail for part 1 in `../index.html`. See detail for part 2 in `../views/js/main.js`.
+
+2. To inspect the site on your phone, you can run a local server:
+
+  ```bash
+  $> cd /path/to/your-project-folder
+  $> python -m SimpleHTTPServer 8080
+  ```
+3. Open a browser and visit localhost:8080.
+4. Download and install [ngrok](https://ngrok.com/) to make your local server accessible remotely:
+
+  ``` bash
+  $> cd /path/to/your-project-folder
+  $> ngrok 8080
+  ```
+5. Copy the public URL ngrok gives you and try running it through PageSpeed Insights and Chrome DevTools!
+
+Or you can use the project uploaded in this link: <a href="http://irenemarin.github.io/FEND-project-4-optimization/dist/index.html" target="_blank">Project 4</a>
 
 ---
 
