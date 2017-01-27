@@ -61,14 +61,14 @@ In this project you will optimize a provided website with a number of optimizati
 
 ### Reference
 
-[Ngrok Local Web Server](https://ngrok.com/docs)
-[Gulp.js](http://gulpjs.com/)
-[Grunt.js](http://gruntjs.com/getting-started)
-[Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [Ngrok Local Web Server](https://ngrok.com/docs)
+- [Gulp.js](http://gulpjs.com/)
+- [Grunt.js](http://gruntjs.com/getting-started)
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 ---
 
 ### License
 
-The project is licensed under the [MYC license](license.txt).
+The project is licensed under the [MIT license](license.txt).
 # Website-Optimization-Project
